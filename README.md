@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Hassanzmn
+- 👀 I’m interested in technology and AI's future
+- 🌱 I’m currently practicing Java
+- 💞️ I’m looking to collaborate on application coding
+- 📫 You can reach me through Email.
+- 🧬 I'm also general physician.
