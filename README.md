@@ -2,5 +2,5 @@
 - 👀 I’m interested in technology and AI's future
 - 🌱 I’m currently practicing Java
 - 💞️ I’m looking to collaborate on application coding
-- 📫 You can reach me through Email.
+- 📫 You can reach me through my Email.
 - 🧬 I'm also general physician.
