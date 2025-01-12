@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassanzmn
-- 👀 I’m interested in AI, CPU & logic gates.
-- 🌱 I’m currently practicing Java, Python
-- 💞️ I’m looking to collaborate on artificial intelligence programs
-- 📫 You can reach me through my Email account.
-- 🧬 I'm also practicing physician.
+- 👀 Interested in A.I.
+- 🌱 My Love languages = [Java, Python, kotlin]
+- 🧬 Occupation = General Physician
+- experienced in HTML, Css, JavaScript, SQL
+- checkout https://pixisky.com
